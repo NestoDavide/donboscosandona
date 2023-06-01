@@ -23,7 +23,6 @@ export default function MediaCard({ movie }) {
                 </Typography>
             </CardContent>
             <CardActions>
-                <Button size="small">Condividi</Button>
                 <Button size="small">Scopri di più</Button>
             </CardActions>
         </Card>
